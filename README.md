@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="pics/Ta.png" width="100" height="100" alt="Ta">
+<img src="pics/logo/EchoV.png" width="200" height="200" alt="Logo">
 
-# [TaShuo]()
+# [EchoV]()
 
 👉 English | [简体中文](README_CN.md)
 
